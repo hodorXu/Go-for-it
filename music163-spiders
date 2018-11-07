@@ -3,11 +3,11 @@
 
 '''
 获取网易云音乐歌曲全部评论
-Author: zhouzying
-URL: https://www.zhouzying.cn
-Date: 2018-09-14
-Update: 2018-09-27         Add data argument.
-Update: 2018-10-04         Get replied comments and add users name who shared comments.
+Author: hodor.Xu
+URL: https://www.4399.com    
+Date: 2018-10-11
+Update: 2018-10-23         Add data argument.
+Update: 2018-11-02         Get replied comments and add users name who shared comments.
 '''
 
 
